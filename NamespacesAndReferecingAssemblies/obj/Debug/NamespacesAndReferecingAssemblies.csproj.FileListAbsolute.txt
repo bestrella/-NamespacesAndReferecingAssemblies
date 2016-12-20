@@ -1,0 +1,1 @@
+C:\Users\bestrella\Documents\Visual Studio 2015\Projects\sample\NamespacesAndReferecingAssemblies\NamespacesAndReferecingAssemblies\bin\Debug\NamespacesAndReferecingAssemblies.exe.config
